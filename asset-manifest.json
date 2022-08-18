@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d02d474.css",
-    "main.js": "/static/js/main.c961b54e.js",
+    "main.css": "/static/css/main.c8a1f9f0.css",
+    "main.js": "/static/js/main.fac14034.js",
+    "static/media/help2.jpg": "/static/media/help2.1ce79f50dcfc61e30631.jpg",
+    "static/media/help1.jpg": "/static/media/help1.e1ff787d8c6946db0466.jpg",
     "static/media/whatsappLight.jpg": "/static/media/whatsappLight.fa1ee173636dd00f1210.jpg",
     "static/media/avatar.png": "/static/media/avatar.7d0d640e728613c5dc36.png",
     "static/media/phoneHeader.png": "/static/media/phoneHeader.1f405176d2b0ff673174.png",
     "static/media/clock.png": "/static/media/clock.dd7aa8631e471ca83b9c.png",
     "static/media/messageSend.mp3": "/static/media/messageSend.fad8e36daa4281544959.mp3",
     "index.html": "/index.html",
-    "main.8d02d474.css.map": "/static/css/main.8d02d474.css.map",
-    "main.c961b54e.js.map": "/static/js/main.c961b54e.js.map"
+    "main.c8a1f9f0.css.map": "/static/css/main.c8a1f9f0.css.map",
+    "main.fac14034.js.map": "/static/js/main.fac14034.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d02d474.css",
-    "static/js/main.c961b54e.js"
+    "static/css/main.c8a1f9f0.css",
+    "static/js/main.fac14034.js"
   ]
 }
